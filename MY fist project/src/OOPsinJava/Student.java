@@ -1,4 +1,4 @@
-package OOPsinJava;
+
 
 public class Student {
     String name;
